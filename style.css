@@ -1,1 +1,19 @@
-/* Los estilos los agregué en línea en el html dado que no se explicó nada de esto en clase */
+
+body{
+    background-color: bisque;
+}
+header{
+    border: 2px solid orange;
+}
+/* footer */
+footer{
+    background-color: #a9d6d6; 
+    height: 39px; 
+    text-align: center;
+    width: auto
+}
+h5{
+    color:white; 
+    padding: 12px;
+    text-align:center
+}
